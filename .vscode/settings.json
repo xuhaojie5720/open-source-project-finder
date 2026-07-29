@@ -1,5 +1,6 @@
 {
-  "dev.containers.autoOpenFolder": true,
+  "dev.containers.executeInWSL": false,
+  "dev.containers.dockerPath": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe",
   "files.associations": {
     "devcontainer.json": "jsonc"
   }
