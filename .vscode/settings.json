@@ -1,0 +1,6 @@
+{
+  "dev.containers.autoOpenFolder": true,
+  "files.associations": {
+    "devcontainer.json": "jsonc"
+  }
+}
